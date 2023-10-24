@@ -34,3 +34,4 @@ bergdog.play_fetch(15)
 
 print(f"{ninadog.fetch_count}")
 
+
